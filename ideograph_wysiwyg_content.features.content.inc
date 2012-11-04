@@ -332,7 +332,7 @@ function ideograph_wysiwyg_content_content_defaults() {
     </div>
     <div>
     	<h2>Links</h2>
-    	<p><a href="#" rel="nofollow">Local link</a><br /><a href="http://www.google.com" rel="nofollow">Visited link</a><br /><a href="http://www.google.com" rel="nofollow">External link</a><br /><a href="https://www.google.com" rel="nofollow">External link with encrypted connection</a><br /><a href="/admin%40test.com" rel="nofollow">E-mail link</a></p>
+    	<p><a href="/" rel="nofollow">Local link</a><br /><a href="http://www.google.com" rel="nofollow">Visited link</a><br /><a href="http://www.google.com" rel="nofollow">External link</a><br /><a href="https://www.google.com" rel="nofollow">External link with encrypted connection</a><br /><a href="/admin%40test.com" rel="nofollow">E-mail link</a></p>
     </div>
     <div>
     	<h2>Block elements</h2>
@@ -431,7 +431,7 @@ function ideograph_wysiwyg_content_content_defaults() {
     	</ol></div>
     <div>
     	<h2>Paragraphs</h2>
-    	<p>According to Wikipedia: a paragraph (from the Greek <a href="#" rel="nofollow">paragraphos</a>, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. The start of a paragraph is indicated by beginning on a new line. Sometimes the first line is indented; sometimes it is indented without beginning a new line.</p>
+    	<p>According to Wikipedia: a paragraph (from the Greek <a href="/" rel="nofollow">paragraphos</a>, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. The start of a paragraph is indicated by beginning on a new line. Sometimes the first line is indented; sometimes it is indented without beginning a new line.</p>
     	<p>A paragraph typically consists of a unifying main point, thought, or idea accompanied by supporting details. The non-fiction paragraph usually begins with the general and moves towards the more specific so as to advance an argument or point of view. Each paragraph builds on what came before and lays the ground or run the length of multiple pages, and may consist of one or many sentences. When dialogue is being quoted in fiction, a new paragraph is used each time the person being quoted changed.</p>
     	<p>In (X)HTML, the p element marks a block of text as a paragraph - the opening tag &lt;p&gt; marks the beginning of a paragraph, and the closing tag &lt;/p&gt; marks the end of a paragraph. The end tag is optional for legacy HTML as the browser automatically starts another paragraph at the next &lt;p&gt; tag, or the nextblock element.</p>
     </div>
@@ -744,7 +744,7 @@ function ideograph_wysiwyg_content_content_defaults() {
     </div>
     <div>
     	<h2>Links</h2>
-    	<p><a href="#" rel="nofollow">Local link</a><br /><a href="http://www.google.com" rel="nofollow">Visited link</a><br /><a href="http://www.google.com" rel="nofollow">External link</a><br /><a href="https://www.google.com" rel="nofollow">External link with encrypted connection</a><br /><a href="/admin%40test.com" rel="nofollow">E-mail link</a></p>
+    	<p><a href="/" rel="nofollow">Local link</a><br /><a href="http://www.google.com" rel="nofollow">Visited link</a><br /><a href="http://www.google.com" rel="nofollow">External link</a><br /><a href="https://www.google.com" rel="nofollow">External link with encrypted connection</a><br /><a href="/admin%40test.com" rel="nofollow">E-mail link</a></p>
     </div>
     <div>
     	<h2>Block elements</h2>
@@ -843,7 +843,7 @@ function ideograph_wysiwyg_content_content_defaults() {
     	</ol></div>
     <div>
     	<h2>Paragraphs</h2>
-    	<p>According to Wikipedia: a paragraph (from the Greek <a href="#" rel="nofollow">paragraphos</a>, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. The start of a paragraph is indicated by beginning on a new line. Sometimes the first line is indented; sometimes it is indented without beginning a new line.</p>
+    	<p>According to Wikipedia: a paragraph (from the Greek <a href="/" rel="nofollow">paragraphos</a>, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. The start of a paragraph is indicated by beginning on a new line. Sometimes the first line is indented; sometimes it is indented without beginning a new line.</p>
     	<p>A paragraph typically consists of a unifying main point, thought, or idea accompanied by supporting details. The non-fiction paragraph usually begins with the general and moves towards the more specific so as to advance an argument or point of view. Each paragraph builds on what came before and lays the ground or run the length of multiple pages, and may consist of one or many sentences. When dialogue is being quoted in fiction, a new paragraph is used each time the person being quoted changed.</p>
     	<p>In (X)HTML, the p element marks a block of text as a paragraph - the opening tag &lt;p&gt; marks the beginning of a paragraph, and the closing tag &lt;/p&gt; marks the end of a paragraph. The end tag is optional for legacy HTML as the browser automatically starts another paragraph at the next &lt;p&gt; tag, or the nextblock element.</p>
     </div>
