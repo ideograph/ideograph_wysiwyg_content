@@ -40,7 +40,7 @@ function ideograph_wysiwyg_content_content_defaults() {
       'und' => array(
         0 => array(
           'value' => '<p>This is a demo site to showcase configurations of WYSIWYG editors and image handling strategies.</p>
-  <p>You can log as the following users, each of whom will have a different editor and image handling experience on the site:</p>
+  <p>You can log (and easily switch users once authenticated) as the following users, each of whom will have a different editor and image handling experience on the site:</p>
   <ul>
   	<li>editor / editor</li>
   	<li>contributor / contributor</li>
@@ -60,7 +60,7 @@ function ideograph_wysiwyg_content_content_defaults() {
           'summary' => '',
           'format' => 'advanced_text_editor',
           'safe_value' => '<p>This is a demo site to showcase configurations of WYSIWYG editors and image handling strategies.</p>
-  <p>You can log as the following users, each of whom will have a different editor and image handling experience on the site:</p>
+  <p>You can log (and easily switch users once authenticated) as the following users, each of whom will have a different editor and image handling experience on the site:</p>
   <ul><li>editor / editor</li>
   	<li>contributor / contributor</li>
   </ul><h3 class="node-section">The components of this installation:</h3>
